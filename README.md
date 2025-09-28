@@ -10,7 +10,7 @@ O usuário (estudante) pode:
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 - Mostrar bebidas disponíveis com estoque e preço
 - Seleção de opção (Coca, Pepsi, Guaraná)
 - Verificação de estoque e quantidade
@@ -21,7 +21,7 @@ O usuário (estudante) pode:
 
 ---
 
-## 📂 Estrutura de Pastas
+## Estrutura de Pastas
 
 ```
 FiniteStateMachine/
